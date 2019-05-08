@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Mystyle1">
+        <item name="android:textSize">18sp </item>
+        <item name="android:layout_width">103dp</item>
+        <item name="android:layout_height">43dp</item>
+        <item name="android:textColor">#FFF8E405</item>
+    </style>
+
+    <style name="Mystyle2">
+        <item name="android:textSize">18sp </item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:textColor">#FFE018C2</item>
+    </style>
+
+</resources>
